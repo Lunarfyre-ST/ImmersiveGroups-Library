@@ -27,17 +27,14 @@ Two download options are available:
 
 ### All-in-One Import
 
-Download the complete ZIP package designed for the **ImmersiveGroups** extension.
+Download a complete ZIP package designed for the **ImmersiveGroups** extension.
 
-This option is intended for users who want to import the included character cards and visual assets together, with minimal manual setup.
 
 ### Expression ZIPs Only
 
 Download the individual, native **SillyTavern-compatible expression ZIPs**.
 
 These can be imported through SillyTavern's regular character expression system without requiring the complete ImmersiveGroups setup.
-
-Choose this option if you prefer to configure character cards, outfits, backgrounds, and other assets yourself.
 
 ---
 
