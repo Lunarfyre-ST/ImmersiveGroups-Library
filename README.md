@@ -42,6 +42,21 @@ Choose the format that fits your setup. **Downloads will be linked here when the
 
 The first set features **Albedo** and **Shalltear Bloodfallen** from *Overlord*, with visual novel-style character sprites and expression sets.
 
+<details>
+<summary><strong>Features</strong></summary>
+
+**3 outfits per character:**
+
+- Main
+- Armor
+- Sleep
+
+**Total:** 6 outfits
+
+**Approximate file size:** ~295 MB
+
+</details>
+
 🖼️ **Previews:** Coming soon.
 
 ---
