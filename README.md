@@ -1,3 +1,5 @@
+![ImmersiveGroups Library banner](docs/banner.jpg)
+
 # 🎭 ImmersiveGroups Library
 
 A home for ready-to-import **character cards, expression sprites, outfits, and backgrounds** for [ImmersiveGroups](https://github.com/Lunarfyre-ST/ImmersiveGroups).
