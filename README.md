@@ -1,58 +1,52 @@
-# ImmersiveGroups-Library
+# 🎭 ImmersiveGroups Library
 
-A library of ready-to-import character cards, expression sprites, outfits, and backgrounds for [ImmersiveGroups](https://github.com/Lunarfyre-ST/ImmersiveGroups).
+A home for ready-to-import **character cards, expression sprites, outfits, and backgrounds** for [ImmersiveGroups](https://github.com/Lunarfyre-ST/ImmersiveGroups).
 
-**ImmersiveGroups** is a SillyTavern extension combining character expressions, multiple outfits, group-chat functionality, background management, and image galleries into a customizable, mobile friendly visual novel-style experience.
+Bring a little more life to your SillyTavern chats. These premade character sets showcase ImmersiveGroups' expressions, outfit changes, and backgrounds, giving you a starting point for your own visual novel-style setup.
 
-This repository provides premade character sets to demonstrate and make use of the extension's features.
+**New to ImmersiveGroups?** It's a SillyTavern extension that brings character expressions, multiple outfits, group chats, background management, and image galleries together in a customizable, mobile-friendly experience. [Explore the extension →](https://github.com/Lunarfyre-ST/ImmersiveGroups)
 
-## ⚠️ Important: Back Up Your Data
+[Browse the sets](#-available-sets) · [Download options](#-download-options) · [Before importing](#-before-you-import)
+
+## ⚠️ Before You Import
 
 > [!WARNING]
-> **It is highly recommended to back up your SillyTavern `data` folder before importing anything from this repository.**
->
-> Carefully review the contents of each import and check for possible conflicts with your existing files, particularly:
->
-> - **Character cards:** Check whether you already have a character with the same name before selecting the option to import character cards.
-> - **Expressions and outfits:** Check for existing sprite folders or filenames that may overlap with imported assets.
-> - **Backgrounds and images:** Check for duplicate filenames or existing assets that could be affected by the import.
->
-> Import safeguards exist, but they have not been extensively tested. **Do not rely on them to prevent accidental overwrites or data loss.**
->
-> Always maintain a separate backup of your existing SillyTavern data.
+> **Back up your SillyTavern `data` folder before importing any assets.**
+> Keep that backup separate from your working files. Import safeguards have not been extensively tested—**do not rely on them to prevent overwrites or data loss.**
 
-## Downloads & Installation
+<details>
+<summary><strong>Pre-import checklist</strong></summary>
 
-Two download options are available:
+Review the contents of each import for conflicts with your existing files:
 
-### All-in-One Import
+- **Character cards:** Check for characters with the same name before choosing to import cards.
+- **Expressions and outfits:** Check for sprite folders or filenames that overlap with the imported assets.
+- **Backgrounds and images:** Check for duplicate filenames or existing assets the import could affect.
 
-Download a complete ZIP package designed for the **ImmersiveGroups** extension.
+</details>
 
+## 📦 Download Options
 
-### Expression ZIPs Only
+Choose the format that fits your setup. **Downloads will be linked here when the first release is ready.**
 
-Download the individual, native **SillyTavern-compatible expression ZIPs**.
+| Option | What you get | Use it with |
+| --- | --- | --- |
+| **All-in-one import** | A complete character-set ZIP packaged for ImmersiveGroups. | The **ImmersiveGroups** extension. |
+| **Expression ZIPs only** | Individual expression ZIPs compatible with SillyTavern's native expression system. | SillyTavern's regular character expressions, without the full ImmersiveGroups setup. |
 
-These can be imported through SillyTavern's regular character expression system without requiring the complete ImmersiveGroups setup.
+## ✨ Available Sets
 
----
+### Set 01 · Albedo & Shalltear
 
-## Available Sets
+*Overlord* · **Release 1.0 — coming soon**
 
-### Set #1: Albedo & Shalltear (Overlord)
+The first set features **Albedo** and **Shalltear Bloodfallen** from *Overlord*, with visual novel-style character sprites and expression sets.
 
-The first character set features **Albedo** and **Shalltear Bloodfallen** from *Overlord*, with visual novel-style character sprites and expression sets.
-
-**Previews**
-
-*Preview images will be added here.*
-
-**Download:** [Release 1.0](#) *(Coming soon)*
+🖼️ **Previews:** Coming soon.
 
 ---
 
-## Disclaimer
+### A Note on the Characters
 
 This is an unofficial, fan-made community resource and is not affiliated with or endorsed by the creators or rights holders of *Overlord* or other future franchises and characters.
 
